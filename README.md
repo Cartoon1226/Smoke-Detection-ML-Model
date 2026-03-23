@@ -3,7 +3,7 @@
 A real-time smoke detection system built on **YOLOv11** (Ultralytics), trained to identify smoke in images and video frames using bounding box object detection. The model is designed for deployment across edge devices and cloud environments.
 
 <p align="center">
-  <img src="images/smoke-detected-indoor.jpg" width="480">
+  <img src="indoor_smoke.png" width="480">
 </p>
 
 ---
