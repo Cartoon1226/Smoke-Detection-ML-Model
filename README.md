@@ -40,11 +40,11 @@ Potential use cases include:
 ## 🖼️ Sample Detections
 
 <p align="center">
-  <img src="images/smoke-indoor-1.jpg" width="400">
-  <img src="images/smoke-outdoor.jpg" width="400">
+  <img src="smoke1.png" width="400">
+  <img src="smoke3.png" width="400">
 </p>
 <p align="center">
-  <img src="images/smoke-indoor-2.jpg" width="400">
+  <img src="smoke2.png" width="400">
 </p>
 
 *Detections shown with bounding boxes and confidence scores (e.g., `smoke 0.92`, `smoke 0.91`)*
